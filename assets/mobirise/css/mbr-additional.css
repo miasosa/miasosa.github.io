@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -413,6 +414,13 @@ h6,
 }
 #msg-box5-0 H3 {
   font-size: 46px;
+  color: #232323;
+}
+#msg-box5-0 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box5-0 P {
+  color: #232323;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -485,8 +493,8 @@ h6,
   color: #bcbcbc;
 }
 #features4-1 .iconbox {
-  background-color: #ededed;
-  border-color: #ededed;
+  background-color: #d1d8d9;
+  border-color: #d1d8d9;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -694,5 +702,11 @@ h6,
   background-color: #ffffff;
 }
 #form1-i .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-i SMALL {
+  color: #ffffff;
+}
+#form1-i .mbr-section-title {
+  color: #ffffff;
 }
