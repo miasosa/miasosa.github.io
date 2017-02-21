@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Photoshop.html",
+    "currentPage": "Landing Page.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 35,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 41,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -158,7 +158,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "showMeta": false
           },
           "title": "",
@@ -172,7 +172,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingBottom": "4",
             "images": [
               {
                 "tags": "Awesome",
@@ -272,7 +272,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -381,7 +381,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%205-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -409,7 +409,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -518,7 +518,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%205-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -609,7 +609,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -639,7 +639,7 @@
     },
     "Landing Page.html": {
       "settings": {
-        "title": "Web Creator Title",
+        "title": "Mia Sosa- Website",
         "meta_descr": "Web Creator Description",
         "order": 1
       },
@@ -718,7 +718,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%205-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -745,9 +745,10 @@
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "text-align": "center"
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
+              "text-align": "center",
+              "font-size": "24px"
             }
           },
           "_anchor": "header1-n",
@@ -868,6 +869,15 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -881,8 +891,28 @@
             "bgColor": "#888e9b",
             "showMeta": false
           },
-          "title": "Title with Solid Background Color",
+          "title": "<span style=\"color: inherit; font-family: 'PT Serif', serif; font-size: 3rem; line-height: 1.1; text-align: center;\">Some of My Work..&nbsp;</span><br>",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#28324e",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_tags": [
@@ -899,7 +929,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rolo-2000x1500-1-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rolo-2000x1500_1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rolo-2000x1500-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -909,7 +939,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1500-1-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-2000x1500_1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2000x1500-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -956,11 +986,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-v",
+          "_anchor": "header3-14",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#819193",
+            "bgColor": "#28324e",
             "showMeta": false
           },
           "title": "",
@@ -987,14 +1017,17 @@
           "_styles": {
             "H3": {
               "font-size": "46px",
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             "P": {
-              "color": "#232323"
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "19px"
             }
           },
           "_anchor": "msg-box5-0",
@@ -1003,17 +1036,17 @@
             "paddingTop": "4",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477904862269-38211eb7c660-2000x1125.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#000000",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#475577",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -1023,7 +1056,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-4950-1400x1225.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1043,7 +1076,47 @@
           },
           "title": "Mia Sosa, Biography",
           "text": "Ever since I was young, I had an interest in technology. I have always wanted to learn how to use programs professionals used. At the moment, I am well-knowledged in a handful of good programs, but I have a lot to learn. I plan to use every application in the Adobe Suite and Microsoft Office without any problem in the future.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#475577",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#475577",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
@@ -1119,12 +1192,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%205-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1138,11 +1211,17 @@
         {
           "_styles": {
             ".card-subtitle": {
-              "color": "#cccccc"
+              "color": "#efefef"
             },
             ".iconbox": {
-              "background-color": "#d1d8d9",
-              "border-color": "#d1d8d9"
+              "background-color": "#475577",
+              "border-color": "#475577"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1151,13 +1230,13 @@
           "_name": "features4",
           "_anchor": "features4-1",
           "_params": {
-            "iconsBgColor": "#d1d8d9",
+            "iconsBgColor": "#475577",
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#888e9b",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1182,7 +1261,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#ffffff"
             }
           },
           "title1": "Get Certified in Photoshop",
@@ -1198,7 +1277,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#ffffff"
             }
           },
           "title2": "Learn How to Video Edit",
@@ -1214,7 +1293,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#ffffff"
             }
           },
           "title3": "Become a Graphic Designer",
@@ -1230,7 +1309,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#ffffff"
             }
           },
           "title4": "Run a Graphic Design Studio",
@@ -1269,17 +1348,68 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#475577",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "18px",
+              "color": "#232323"
+            }
+          },
           "_anchor": "content1-2",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#888e9b"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<p>\"If there's something you don't understand, learn to understand it.\"</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#475577",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -1290,7 +1420,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#fff"
+            "bgColor": "#888e9b"
           },
           "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
@@ -1308,7 +1438,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
