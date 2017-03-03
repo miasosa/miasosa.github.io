@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
 
@@ -633,19 +632,9 @@ h6,
   color: #ffffff;
 }
 
-
-
-#msg-box5-0 H3 {
-  font-size: 46px;
-  color: #ffffff;
-}
-#msg-box5-0 .btn {
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box5-0 P {
-  color: #ffffff;
-  font-family: 'Lato', sans-serif;
-  font-size: 19px;
+#msg-box8-1a .mbr-section-title,
+#msg-box8-1a p {
+  color: #fff;
 }
 #header3-10 .mbr-section-title,
 #header3-10 .mbr-section-subtitle {
@@ -722,17 +711,17 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#features4-1 .card-subtitle {
-  color: #efefef;
+#features7-1b .card-subtitle {
+  color: #bcbcbc;
 }
-#features4-1 .iconbox {
+#features7-1b .iconbox {
   background-color: #475577;
   border-color: #475577;
 }
-#features4-1 P {
+#features7-1b H4 {
   color: #ffffff;
 }
-#features4-1 H4 {
+#features7-1b P {
   color: #ffffff;
 }
 #header3-11 .mbr-section-title,

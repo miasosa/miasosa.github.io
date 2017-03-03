@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 45,
+    "uniqCompNum": 48,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -381,7 +381,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -518,7 +518,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -649,73 +649,38 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "46px",
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "19px"
-            }
-          },
-          "_anchor": "msg-box5-0",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1a",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingTop": "5",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477904862269-38211eb7c660-2000x1125.jpg",
-            "bgColor": "#ffffff",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1315.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#475577",
-            "inverse": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButton": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-4950-1400x1225.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Mia Sosa, Biography",
-          "text": "Ever since I was young, I had an interest in technology. I have always wanted to learn how to use programs professionals used. At the moment, I am well-knowledged in a handful of good programs, but I have a lot to learn. I plan to use every application in the Adobe Suite and Microsoft Office without any problem in the future.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
+          "title": "A Little Bit About Me..",
+          "text": "<p>Ever since I was young, I had an interest in technology. I have always wanted to learn how to use programs professionals used. At the moment, I am well-knowledged in a handful of good programs, but I have a lot to learn. I plan to use every application in the Adobe Suite and Microsoft Office without any problem in the future.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
@@ -848,29 +813,30 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"miasosa.github.io/documents/Discuss IT Topic 6.pdf\">DicussIT Topic 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Referenece</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community Member</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
           "_styles": {
             ".card-subtitle": {
-              "color": "#efefef"
+              "color": "#bcbcbc"
             },
             ".iconbox": {
               "background-color": "#475577",
               "border-color": "#475577"
             },
-            "P": {
+            "H4": {
               "color": "#ffffff"
             },
-            "H4": {
+            "P": {
               "color": "#ffffff"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_anchor": "features4-1",
+          "_name": "features7",
+          "_anchor": "features7-1b",
           "_params": {
             "iconsBgColor": "#475577",
-            "paddingTop": "1",
+            "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -884,7 +850,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -893,30 +859,30 @@
           },
           "media1": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "documents",
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#fff"
             }
           },
-          "title1": "Get Certified in Photoshop",
+          "title1": "Bootstrap 4",
           "subtitle1": "Preferably before I graduate high school",
           "caption1": "Knowing that I can get into a good university and get job oppuritunities with the Photoshop Certificates, I wish to get one for myself.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "video-play",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#fff"
             }
           },
           "title2": "Learn How to Video Edit",
@@ -925,44 +891,44 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "edit2",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#fff"
             }
           },
           "title3": "Become a Graphic Designer",
-          "subtitle3": "Get a job for being it<br>",
-          "caption3": "",
+          "subtitle3": "Get a job for being it",
+          "caption3": "Have a studio for proffesional graphic designing to design things for people.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "website-theme",
+              "name": "camera",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#fff"
             }
           },
-          "title4": "Run a Graphic Design Studio",
-          "subtitle4": "After I become a graphic designer",
-          "caption4": "This graphic design studio can do projects for companies and could probably do posters or logos.",
+          "title4": "Become a Photographer",
+          "subtitle4": "Take photographs for companies",
+          "caption4": "Take proffesional pictures for companies that need them and fulfill their desires with the photos they want.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -973,11 +939,11 @@
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -1369,7 +1335,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rolo-2000x1500-1-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rolo-2000x1500-1.jpg",
-                "caption": "Type caption here",
+                "caption": "Rolo Wrapper Recreation",
                 "active": false
               },
               {
@@ -1379,7 +1345,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1500-1-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/logo-2000x1500-1.jpg",
-                "caption": "Type caption here",
+                "caption": "MDCPS Logo",
                 "active": false
               },
               {
@@ -1389,7 +1355,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/avengers-2000x1500.jpg",
-                "caption": "Type caption here",
+                "caption": "Avengers Composite",
                 "active": false
               },
               {
@@ -1399,12 +1365,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/space-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/space-2000x1500.jpg",
-                "caption": "Type caption here",
+                "caption": "Star Trek Edit",
                 "active": true
               }
             ],
             "spacing": 0,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
