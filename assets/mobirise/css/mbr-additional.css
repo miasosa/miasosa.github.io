@@ -636,6 +636,12 @@ h6,
 #msg-box8-1a p {
   color: #fff;
 }
+#msg-box8-1a .lead P {
+  text-align: left;
+}
+#msg-box8-1a .mbr-section-title {
+  text-align: left;
+}
 #header3-10 .mbr-section-title,
 #header3-10 .mbr-section-subtitle {
   text-align: center;

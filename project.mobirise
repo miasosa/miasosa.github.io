@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -381,7 +381,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1282.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -518,7 +518,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1282.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -652,6 +652,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -661,10 +667,10 @@
           "_anchor": "msg-box8-1a",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": "4",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-5434-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5434-2-2000x1257.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -869,7 +875,7 @@
               "color": "#fff"
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Become Certified in Photoshop",
           "subtitle1": "Preferably before I graduate high school",
           "caption1": "Knowing that I can get into a good university and get job oppuritunities with the Photoshop Certificates, I wish to get one for myself.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1058,7 +1064,7 @@
     },
     "index.html": {
       "settings": {
-        "title": "Mia Sosa- Website",
+        "title": "Mia Sosa",
         "meta_descr": "Web Creator Description",
         "order": 1
       },
@@ -1192,7 +1198,7 @@
           },
           "title": "Mia Sosa",
           "text": "\"No matter what type of wisdom dictates the option you should pick, no one will be able to tell you if it's right or wrong until you arrive to some sort of outcome resulting from your choice. &nbsp;The only thing we're allowed to do is believe that we won't regret the choice we made.” ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Come On In</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Come On In</a> "
         },
         {
           "_styles": {
