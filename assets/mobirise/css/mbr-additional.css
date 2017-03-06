@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
 
 
@@ -749,6 +750,7 @@ h6,
 
 
 
+
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -818,12 +820,14 @@ h6,
 }
 #header1-n .mbr-section-title {
   color: #ffffff;
+  font-size: 100px;
+  font-family: 'Indie Flower', cursive;
 }
 #header1-n .mbr-section-lead {
   color: #ffffff;
   font-family: 'PT Serif', serif;
   text-align: center;
-  font-size: 24px;
+  font-size: 22px;
 }
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {

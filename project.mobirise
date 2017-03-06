@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -381,7 +381,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -518,7 +518,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1166,14 +1166,17 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "100px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
               "text-align": "center",
-              "font-size": "24px"
+              "font-size": "22px"
             }
           },
           "_anchor": "header1-n",
