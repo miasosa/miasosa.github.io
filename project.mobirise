@@ -771,7 +771,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -908,7 +908,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1779,7 +1779,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/kvYg0RstNGE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/_9-EhxD2BMs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a>"
         },
         {
           "_styles": {
