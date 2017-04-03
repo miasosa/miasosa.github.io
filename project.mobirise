@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 81,
+    "uniqCompNum": 83,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1591,7 +1591,7 @@
           },
           "title": "Mia Sosa",
           "text": "<span style=\"line-height: 1.5;\">-Website dedicated to my work-</span><br><br>\"No matter what type of wisdom dictates the option you should pick, no one will be able to tell you if it's right or wrong until you arrive to some sort of outcome resulting from your choice. &nbsp;The only thing we're allowed to do is believe that we won't regret the choice we made.” ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Come On In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Come On In</a>  "
         },
         {
           "_styles": {
@@ -1735,6 +1735,63 @@
           ],
           "_name": "header3",
           "_anchor": "header3-14",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#28324e",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-29",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#475577",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/kvYg0RstNGE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
