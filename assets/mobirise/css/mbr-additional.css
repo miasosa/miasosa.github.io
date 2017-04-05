@@ -564,6 +564,17 @@ h6,
 #menu-c .close-icon::after {
   background-color: #ffffff;
 }
+#header3-2h .mbr-section-title,
+#header3-2h .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-2f .mbr-section-title,
+#msg-box8-2f p {
+  color: #fff;
+}
+#msg-box8-2f .mbr-section-title {
+  font-size: 72px;
+}
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -967,4 +978,80 @@ h6,
 #header3-1l .mbr-section-title,
 #header3-1l .mbr-section-subtitle {
   text-align: center;
+}
+#menu-2b .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2b .navbar-caption {
+  color: #ffffff;
+}
+#menu-2b .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2b .link,
+#menu-2b .dropdown-item {
+  color: #ffffff;
+}
+#menu-2b .link {
+  font-size: 0.75rem;
+}
+#menu-2b .dropdown-item,
+#menu-2b .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-2b .link:hover,
+#menu-2b .dropdown-item:hover,
+#menu-2b .link:focus,
+#menu-2b .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-2b .link[aria-expanded="true"],
+#menu-2b .dropdown-menu {
+  background: #343e57;
+}
+#menu-2b .nav-dropdown-sm .link:focus,
+#menu-2b .nav-dropdown-sm .link:hover,
+#menu-2b .nav-dropdown-sm .dropdown-item:focus,
+#menu-2b .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#menu-2b .navbar,
+#menu-2b .nav-dropdown-sm,
+#menu-2b .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2b .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#menu-2b .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2b .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2b .bg-color.transparent.opened .link:hover,
+#menu-2b .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-2b .link[aria-expanded="true"],
+#menu-2b .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-2b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2b .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2b .close-icon::before,
+#menu-2b .close-icon::after {
+  background-color: #ffffff;
+}
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
 }
