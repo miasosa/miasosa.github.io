@@ -1,9 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+
 
 
 
@@ -485,6 +487,15 @@ h6,
 #header3-b .mbr-section-subtitle {
   text-align: center;
 }
+#header3-b SMALL {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+  text-align: right;
+}
+#header3-b H3 {
+  color: #232323;
+}
 #header3-y .mbr-section-title,
 #header3-y .mbr-section-subtitle {
   text-align: center;
@@ -496,6 +507,9 @@ h6,
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1d SMALL {
+  color: #ffffff;
 }
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
@@ -563,17 +577,6 @@ h6,
 #menu-c .close-icon::before,
 #menu-c .close-icon::after {
   background-color: #ffffff;
-}
-#header3-2h .mbr-section-title,
-#header3-2h .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box8-2f .mbr-section-title,
-#msg-box8-2f p {
-  color: #fff;
-}
-#msg-box8-2f .mbr-section-title {
-  font-size: 72px;
 }
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
