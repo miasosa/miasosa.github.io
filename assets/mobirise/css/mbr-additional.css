@@ -511,6 +511,18 @@ h6,
 #header3-1d SMALL {
   color: #ffffff;
 }
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
+}
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -577,6 +589,18 @@ h6,
 #menu-c .close-icon::before,
 #menu-c .close-icon::after {
   background-color: #ffffff;
+}
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
 }
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
@@ -653,6 +677,18 @@ h6,
 }
 #form1-i .mbr-section-title {
   color: #ffffff;
+}
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
 }
 
 #msg-box8-1a .mbr-section-title,
@@ -768,6 +804,18 @@ h6,
 #header3-12 .mbr-section-title,
 #header3-12 .mbr-section-subtitle {
   text-align: center;
+}
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
 }
 
 
@@ -892,14 +940,17 @@ h6,
 #social-buttons4-15 .mbr-section-title {
   color: #c1c1c1;
 }
-#contacts3-17 SPAN {
+#contacts3-2c SPAN {
   color: #ffffff;
 }
-#contacts3-17 H4 {
+#contacts3-2c H4 {
   color: #ffffff;
 }
-#contacts3-17 STRONG {
+#contacts3-2c STRONG {
   color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
 }
 #menu-1f .hide-buttons .nav-btn {
   display: none !important;
@@ -975,12 +1026,21 @@ h6,
 #header3-1p H3 {
   color: #ffffff;
 }
-#slider-1o H2 {
-  font-size: 60px;
-}
 #header3-1l .mbr-section-title,
 #header3-1l .mbr-section-subtitle {
   text-align: center;
+}
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
 }
 #menu-2b .hide-buttons .nav-btn {
   display: none !important;
@@ -1058,6 +1118,9 @@ h6,
 #contacts3-2c STRONG {
   color: #ffffff;
 }
+#contacts3-2c LI {
+  color: #c0a375;
+}
 #menu-2i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1128,6 +1191,18 @@ h6,
 #msg-box4-2l H3 {
   color: #ffffff;
 }
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
+}
 #menu-2m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1197,4 +1272,16 @@ h6,
 }
 #msg-box4-2p H3 {
   color: #ffffff;
+}
+#contacts3-2c SPAN {
+  color: #ffffff;
+}
+#contacts3-2c H4 {
+  color: #ffffff;
+}
+#contacts3-2c STRONG {
+  color: #ffffff;
+}
+#contacts3-2c LI {
+  color: #c0a375;
 }
