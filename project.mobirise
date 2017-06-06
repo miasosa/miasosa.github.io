@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -859,7 +859,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1288.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x12810.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1071,7 +1071,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-5-384x1288.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-5-384x12810.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3136,7 +3136,7 @@
             "paddingBottom": "7",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x15029.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x150211.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
